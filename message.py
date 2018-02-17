@@ -5,7 +5,7 @@ from datetime import datetime
 import time
 
 #serial_device = '/dev/cu.usbserial-A900adpX'
-serial_device = '/dev/cu.usbserial-FTALEZL0'
+serial_device = '/dev/serial0
 
 debug = 0
 
